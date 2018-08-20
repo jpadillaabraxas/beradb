@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "id": "kJdisjdl8374",
+      "name": "Sal Yodatada",
+      "product_type": "solid",
+      "product_type_id": "f4f5g4e8e",
+      "unit_measurement_id": "4d8f4852s1",
+      "unit_measurement_using_id": "4d8f4852s1",
+      "unit_measurement": "ml",
+      "unit_measurement_using": "ml",
+      "created_at": "1980-01-02T00:00:00.000Z",
+      "created_by": "8fg2h5f4j3x4d58"
+    },
+    {
+      "id": "kJdisjdl8374",
+      "name": "Sal Yodatada",
+      "product_type": "solid",
+      "product_type_id": "f4f5g4e8e",
+      "unit_measurement_id": "4d8f4852s1",
+      "unit_measurement_using_id": "4d8f4852s1",
+      "unit_measurement": "ml",
+      "unit_measurement_using": "ml",
+      "created_at": "1980-01-02T00:00:00.000Z",
+      "created_by": "8fg2h5f4j3x4d58"
+    },
+    {
+      "id": "kJdisjdl8374",
+      "name": "Sal Yodatada",
+      "product_type": "solid",
+      "product_type_id": "f4f5g4e8e",
+      "unit_measurement_id": "4d8f4852s1",
+      "unit_measurement_using_id": "4d8f4852s1",
+      "unit_measurement": "ml",
+      "unit_measurement_using": "ml",
+      "created_at": "1980-01-02T00:00:00.000Z",
+      "created_by": "8fg2h5f4j3x4d58"
+    }
+  ]
+}
